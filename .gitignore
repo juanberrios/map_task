@@ -21,4 +21,3 @@ spreadsheets/
 #------------------ saved data files
 *.pkl
 *.Rmd
-image_similarity.ipynb
